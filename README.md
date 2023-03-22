@@ -1,16 +1,11 @@
 # ninebot
 
 A new Flutter project.
+Don't forget to star the project
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#This project is a Ui design based.
+![274074593_503774437831277_2518708777832940249_n](https://user-images.githubusercontent.com/105006236/226862665-2cc7363c-0d2b-472d-ac7a-ec465634e6c8.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
